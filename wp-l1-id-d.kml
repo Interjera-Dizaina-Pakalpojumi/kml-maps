@@ -1,0 +1,255 @@
+<?xml version="1.0" ?><kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name><![CDATA[wp-l1-id-d]]></name>
+<Style id="red"><IconStyle><scale>1</scale> <Icon> <href>https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/KML-dizaina-kartes/mapfilespins/Rigas-Dizains-Interjera-Dizaina-Pakalpojumi.png</href></Icon> <hotSpot x="0.5"  y="0.5"  xunits="fraction" yunits="fraction"/> </IconStyle><BalloonStyle><text><![CDATA[$[description]<br/>$[geDirections] ]]></text></BalloonStyle></Style>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.168958,56.870263,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.271905,56.934411,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.190214,56.955918,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>26.731437,55.944332,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>26.307407,55.810960,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>26.485678,55.936200,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.035351,56.498811,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.013241,56.487050,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.008908,56.509000,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.620212,56.662395,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.645664,56.706640,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.581913,56.710876,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.864511,56.985457,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.745290,56.952880,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.723314,56.955589,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.540876,57.400565,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.527834,57.386644,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.627550,57.377871,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>27.283121,56.592196,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>27.512443,56.770680,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>27.046721,56.470331,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.680357,56.814134,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.477161,56.788184,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.563559,56.839460,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.419529,57.455014,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.434235,57.487056,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.455495,57.601011,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>26.026544,56.359054,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.784206,56.697326,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>26.152876,56.566840,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.289889,56.910207,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.423881,56.843981,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.254754,56.834731,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.085114,56.774087,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.025389,56.906466,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>22.943484,56.882081,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.399636,57.237629,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.414759,57.313099,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>25.459035,57.250989,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.899720,56.835179,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>23.980870,56.712525,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.015833,56.766405,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.943817,56.863132,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.700390,56.866342,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>21.887353,57.119031,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.882952,57.160178,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.725299,57.203495,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>24.835507,57.141957,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>22.773068,56.689336,0</coordinates>
+</Point> 
+</Placemark>
+<Placemark><description><![CDATA[<img class="gmapImgSize" src="https://zaluzijas-un-aizkari.s3.eu-north-1.amazonaws.com/Interjera-Dizains/foto/Interjera-Dizains.png"/><a href="https://sites.google.com/view/interjera-dizainers" target="_blank">https://sites.google.com/view/interjera-dizainers</a>]]></description>
+<styleUrl>#red</styleUrl>
+<Point> <coordinates>22.563657,56.716336,0</coordinates>
+</Point> 
+</Placemark>
+</Document>
+</kml>
